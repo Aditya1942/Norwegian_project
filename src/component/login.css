@@ -44,6 +44,10 @@
 
 .form__feilds {
   width: 40vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
 div.form__feild {
   margin-bottom: 40px;
